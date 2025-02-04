@@ -1,5 +1,5 @@
 # Building a REST API with Python 3
-Demo code for the course "Building a REST API with Python 3" on [Pluralsight](https://www.pluralsight.com).
+Demo code for the   course "Building a REST API with Python 3" on [Pluralsight](https://www.pluralsight.com).
 
 There's a commit for each module in the course, as well as a tag:
 
